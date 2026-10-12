@@ -12,6 +12,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
   - [API](#api)
   - [Business Intelligence](#business-intelligence)
   - [Communication \& Collaboration](#communication--collaboration)
+  - [Compliance](#compliance)
   - [CRM](#crm)
   - [Customer Support](#customer-support)
   - [Design](#design)
@@ -37,6 +38,10 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 ## Business Intelligence
 
 ## Communication & Collaboration
+
+## Compliance
+
+- [ComplyOnSite](https://complyonsite.com/) - Construction health, safety and environmental compliance software for UK contractors.
 
 ## CRM
 
@@ -78,8 +83,11 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 - [LookAway](https://lookaway.com) - LookAway is a smart break reminder that helps reduce eye strain, digital fatigue, and maintain better posture—so you can end your day feeling fresh.
 - [Scribbble](https://www.scribbble.app/) - Screen annotation app for presenters, content creators and online educators.
 - [TextSniper](https://textsniper.app/) - TextSniper extracts text from images, videos, PDFs and anything on your screen. Copy text where copying isn't allowed. Scan QR codes instantly.
+- [tingdo](https://tingdo.app) - GTD task manager built around what's next instead of fake due dates. Tasks sit in lists sorted by situation and get reviewed weekly. Free tier available.
 
 ## Project Management
+
+- [Retainer OS — Starter](https://eliteseo6.gumroad.com/l/ewvwy) - Notion template for solo and small SEO agencies to track client deliverables and retainer work in one board.
 
 ## Sales
 
@@ -96,10 +104,11 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## Other
 
-- [kdpbook.io](https://kdpbook.io) - AI book studio for Amazon KDP: describe a book in a chat and get the print PDF, full-wrap cover, Kindle eBook and listing. 2,000 free credits at signup, plans from $25/month.
 - [Mydentify](https://mydentify.com) - Intent-first product discovery with permanent listings, weekly leaderboards, researched launch resources, and a free tier.
 - [Picmal](https://picmal.app) - Batch convert and compress your images, videos and audios offline on your Mac.
 - [StartFast](https://startfa.st) - A curated directory of essential tools, resources, and products for developers and founders to build and launch faster.
+- [kdpbook.io](https://kdpbook.io) - AI book studio for Amazon KDP: describe a book in a chat and get the print PDF, full-wrap cover, Kindle eBook and listing. 2,000 free credits at signup, plans from $25/month.
+- [FieldServiceScout](https://www.fieldservicescout.com) - Free vendor-neutral field-service software comparisons for trade shops (Jobber, Housecall Pro, ServiceTitan peers).
 
 ## Contributing
 
