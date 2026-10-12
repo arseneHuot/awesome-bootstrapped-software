@@ -71,7 +71,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 - [Autoposting](https://autoposting.ai) - AI social media manager that writes posts in your voice, clips long video, and schedules to five networks.
 
 - [SocialClaw](https://getsocialclaw.com) - Schedule and publish social posts across X, LinkedIn, Instagram, Facebook Pages, TikTok, YouTube, Reddit, Pinterest, Discord, Telegram, and WordPress via dashboard, API, CLI, or MCP. Free tier available.
-- [shortshort](https://www.shortshort.io) - Turns one long video (upload or YouTube link) into vertical 9:16 shorts with word-by-word captions. Free plan with 60 credits, paid plans from €12/mo.
+- [Shortshort](https://www.shortshort.io) - Turns one long video (upload or YouTube link) into vertical 9:16 shorts with word-by-word captions. Free plan with 60 credits, paid plans from €12/mo.
 
 ## Productivity
 
